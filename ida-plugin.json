@@ -1,0 +1,15 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "Camleon",
+    "entryPoint": "camleon_entry.py",
+    "version": "0.0.1beta",
+    "urls": {
+      "repository": "https://github.com/Aplace0927/camleon"
+    },
+    "authors": [{
+      "name": "Aplace",
+      "email": "aplace030927@gmail.com"
+    }]
+  }
+}
