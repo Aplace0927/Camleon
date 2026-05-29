@@ -1,0 +1,13 @@
+root = "Edit/"
+
+[Camleon]
+name = "Camleon"
+
+[Camleon.FixCC]
+name = "Fix OCaml Calling Convention"
+
+[Camleon.FixCC.Current]
+action = "fix_calling_convention_current"
+
+[Camleon.FixCC.All]
+action = "fix_calling_convention_all"

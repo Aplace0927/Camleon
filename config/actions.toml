@@ -1,0 +1,11 @@
+[fix_calling_convention_current]
+name = "camleon:fix_calling_convention_current"
+label = "Fix OCaml Calling Convention (Current)"
+handler = "src.modules.closure:fix_calling_convention_current"
+tooltip = "Apply the OCaml calling convention to the current function"
+
+[fix_calling_convention_all]
+name = "camleon:fix_calling_convention_all"
+label = "Fix OCaml Calling Convention (All)"
+handler = "src.modules.closure:fix_calling_convention_all"
+tooltip = "Apply the OCaml calling convention to all functions"
